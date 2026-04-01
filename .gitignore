@@ -1,0 +1,14 @@
+# Ignorar bases de datos locales
+*.db
+*.sqlite
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar node_modules si lo tuvieras
+node_modules/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
